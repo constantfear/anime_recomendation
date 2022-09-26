@@ -1,2 +1,2 @@
-# anime_recomendation
-Anime Recomendation for animego.org
+# Рекомендационная система для сайта AnimeGo
+
